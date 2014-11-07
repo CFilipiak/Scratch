@@ -1,0 +1,51 @@
+Go to Scratch for Budding Computer Scientists (link on bit.ly/SAHSCS) and answer the
+following questions.
+
+You will need to create a file that is named your username and paste your answers in it.
+After you have completed the questions, submit a pull request in this same repository.
+
+1) Why is there such a "learning curve" when learning a traditional programming
+language such as Java?
+It involves learning to read and write a new language. 
+
+2) What is learning to program ultimately about?
+Learning to logically solve problems and approach them methodically. 
+
+3) How does Scratch "lower the bar" to programming?
+It allows computer scientist to focus on problems rather than syntax.
+
+4) What is a statement in a programming language?
+A derective that tells the computer to do something. 
+
+5) What is a Boolean expression?
+An expression that is either true or false.
+
+6) What is a conditional statement?
+Something that must be true in order to happen.
+
+7) What is a loop used for in a programming language?
+It incvolves using multiple executions of statements. 
+
+8) What is the difference between a local variable and a global variable?
+Local - used by just one sprite
+Global - used by all of your sprites
+9) What is a Boolean variable?
+A variable that only takes a value of true or false. 
+
+10) Which type of blocks in Scratch can be considered threads?
+"When" blocks are considered threads.
+
+11) Which type of blocks in Scratch can be considered event handlers?
+"Broadcasts" blocks are considered event handlers.
+
+12) How many sprites are implemented in Oscartime?
+There are nine sprites implemented. 
+
+13) How many threads are used to display the Oscartime game instructions?
+Each sprite uses between one to three threads. 
+
+14) How many threads are used by Oscartime's Oscar sprite?
+Three threads are used. 
+
+15) What programming constructs does Scratch NOT support?
+Methods, parameters, return values, and inheritance and polymorphism are not supported. 
